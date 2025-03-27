@@ -1,1 +1,2 @@
-print("gi")
+
+game.Players.LocalPlayer:Kick("The Script has outdated The script needs Many Good units By Auto Editer")
